@@ -14,4 +14,4 @@ Here I have uploaded the implementations of basic data structures using C langua
 
 All the codes are Menu Driven and all the implementations use Singly Linked List. In addition to all these, there is another program implemented in C using Singly Linked List named as ```StudentData.c```. This program is used to store Student's data and there are utility functions to perform CRUD operations.
 
-**The Python Implementations of the same have been uploaded in a seperate Repository.**
+**The Python Implementations of the same have been uploaded in a seperate [Repository](https://github.com/ayan-cs/data-structures-python).**
